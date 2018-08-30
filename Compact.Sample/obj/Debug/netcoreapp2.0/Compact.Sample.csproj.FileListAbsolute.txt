@@ -1,0 +1,3 @@
+c:\users\chris\Source\Repos\Compact.Database\Compact.Sample\obj\Debug\netcoreapp2.0\Compact.Sample.csproj.CoreCompileInputs.cache
+c:\users\chris\Source\Repos\Compact.Database\Compact.Sample\obj\Debug\netcoreapp2.0\Compact.Sample.AssemblyInfoInputs.cache
+c:\users\chris\Source\Repos\Compact.Database\Compact.Sample\obj\Debug\netcoreapp2.0\Compact.Sample.AssemblyInfo.cs

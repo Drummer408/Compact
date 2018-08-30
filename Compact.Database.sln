@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compact.Database", "Compact.Database\Compact.Database.csproj", "{ED0B83CC-9591-4087-B853-61923631B6A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compact.Sample", "Compact.Sample\Compact.Sample.csproj", "{F9BE6D37-26EA-4E76-84AF-C9716216FBDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0B83CC-9591-4087-B853-61923631B6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0B83CC-9591-4087-B853-61923631B6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0B83CC-9591-4087-B853-61923631B6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0B83CC-9591-4087-B853-61923631B6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9BE6D37-26EA-4E76-84AF-C9716216FBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BE6D37-26EA-4E76-84AF-C9716216FBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BE6D37-26EA-4E76-84AF-C9716216FBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BE6D37-26EA-4E76-84AF-C9716216FBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE8196D3-D4F9-479E-9FAD-21AE34CDF4F6}
+	EndGlobalSection
+EndGlobal

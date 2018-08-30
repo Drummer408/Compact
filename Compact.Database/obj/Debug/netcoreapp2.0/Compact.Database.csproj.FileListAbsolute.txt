@@ -1,0 +1,9 @@
+c:\users\chris\Source\Repos\Compact.Database\Compact.Database\bin\Debug\netcoreapp2.0\Compact.Database.deps.json
+c:\users\chris\Source\Repos\Compact.Database\Compact.Database\bin\Debug\netcoreapp2.0\Compact.Database.dll
+c:\users\chris\Source\Repos\Compact.Database\Compact.Database\bin\Debug\netcoreapp2.0\Compact.Database.pdb
+c:\users\chris\Source\Repos\Compact.Database\Compact.Database\obj\Debug\netcoreapp2.0\Compact.Database.csprojAssemblyReference.cache
+c:\users\chris\Source\Repos\Compact.Database\Compact.Database\obj\Debug\netcoreapp2.0\Compact.Database.csproj.CoreCompileInputs.cache
+c:\users\chris\Source\Repos\Compact.Database\Compact.Database\obj\Debug\netcoreapp2.0\Compact.Database.AssemblyInfoInputs.cache
+c:\users\chris\Source\Repos\Compact.Database\Compact.Database\obj\Debug\netcoreapp2.0\Compact.Database.AssemblyInfo.cs
+c:\users\chris\Source\Repos\Compact.Database\Compact.Database\obj\Debug\netcoreapp2.0\Compact.Database.dll
+c:\users\chris\Source\Repos\Compact.Database\Compact.Database\obj\Debug\netcoreapp2.0\Compact.Database.pdb
