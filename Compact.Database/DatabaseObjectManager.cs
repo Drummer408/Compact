@@ -1,6 +1,6 @@
 ﻿namespace Compact.Database
 {
-    internal class DatabaseObjectManager
+    public class DatabaseObjectManager
     {
         private SqlClient sqlClient;
         private SqlQueryFactory sqlQueryFactory;

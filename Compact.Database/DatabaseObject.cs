@@ -12,17 +12,17 @@ namespace Compact.Database
 
         protected DatabaseObject()
         {
-            tableName = GetTableName(GetType());
+            tableName = GetTableNameFromType(GetType());
         }
 
-        private string GetTableName(Type type)
+        private string GetTableNameFromType(Type type)
         {
             var tableAttribute =
                 (DatabaseTableAttribute) Attribute.GetCustomAttribute(type, typeof(DatabaseTableAttribute));
             return tableAttribute.Name;
         }
 
-        public void SetDatabaseFields()
+        public void SetProperties()
         {
             databaseFields = new Dictionary<string, DatabaseValue>();
 
